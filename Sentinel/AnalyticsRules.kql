@@ -1,0 +1,4 @@
+SecurityEvent
+| where EventID == 4625
+| summarize FailedLogons = count() by TargetAccount, bin(TimeGenerated, 1h)
+| where FailedLogons > 5

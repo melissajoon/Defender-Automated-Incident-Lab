@@ -74,8 +74,8 @@ Defender-Automated-Incident-Lab/
 │   ├── 9.Email-Alert
 │   └── 10.Run-History.png
 └── /Sentinel
-│   ├── 1.Analytics-Rule.png
-│   ├── 2.Sentinel-Alert.png 
+    ├── 1.Analytics-Rule.png
+    ├── 2.Sentinel-Alert.png 
     └── AnalyticsRules.kql
 
 

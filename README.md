@@ -53,15 +53,7 @@ This project is a hands-on lab simulating automated incident response using Micr
 
 ## 📸 Screenshots
 
-> Add screenshots here of your Logic App workflow, automation rule, Sentinel alerts, and sample email.
-
-Example folders:
-```
-📁 /screenshots  
-  📷 logic-app.png  
-  📷 alert-email.png  
-  📷 automation-rule.png  
-```
+All screenshots from Logic App workflow, automation rule, Sentinel alerts, and sample email are stored in the structured folders above for clarity and traceability.
 
 ---
 
@@ -71,11 +63,17 @@ Example folders:
 Defender-Automated-Incident-Lab/
 │
 ├── README.md
-├── /screenshots
-│   ├── alert-email.png
-│   ├── logic-app.png
-│   └── automation-rule.png
-└── /kql
+├── /Defender
+│   ├── 3.Defender-Onboard.png
+│   ├── 4.EICAR-Detection.png
+│   └── 5.EICAR-Attack-Graph-Details.png
+├── /Playbook
+│   ├── 6.Logic-App-Design.png
+│   ├── 7.logic-App-Run
+│   ├── 8.Automation-Rule.png
+│   ├── 9.Email-Alert
+│   └── 10.Run-History.png
+└── /Sentinel
     └── analytics-rule-queries.kql
 ```
 
